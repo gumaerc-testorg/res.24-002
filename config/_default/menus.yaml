@@ -3,13 +3,13 @@ leftnav:
   name: Instructor Insights
   pageRef: /pages/instructor-insights
   weight: 10
-- identifier: external-372824167-1679572682910
-  name: MIT-Haiti Initiative
-  url: https://haiti.mit.edu/
-  weight: 20
 - identifier: external-1580868830-1679572931153
   name: "Platf\xF2m MIT-Ayiti"
   url: https://mit-ayiti.net/
+  weight: 20
+- identifier: external-372824167-1679572682910
+  name: MIT-Haiti Initiative
+  url: https://haiti.mit.edu/
   weight: 30
 - identifier: be597ce7-c131-4373-b3dc-ae70b45dda49
   name: Why the MIT-Haiti Initiative Was Founded
@@ -27,7 +27,7 @@ leftnav:
   parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
   weight: 30
 - identifier: ef793a62-68cb-4371-8547-2af4483a7033
-  name: Mother-Tongue Pedagogy as Active-Learning Pedagogy
+  name: Mother Tongue as a Necessary Tool for Active-Learning Pedagogy
   pageRef: /pages/mother-tongue-pedagogy-as-active-learning-pedagogy
   parent: ea7c2a7f-63df-4968-a2dc-c6b2f93211ba
   weight: 40
