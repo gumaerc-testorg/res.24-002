@@ -3,13 +3,13 @@ leftnav:
   name: Instructor Insights
   pageRef: /pages/instructor-insights
   weight: 10
-- identifier: external-1580868830-1679572931153
+- identifier: 19c2bb22-ca39-4924-ad40-b02527ed2dcd
   name: "Platf\xF2m MIT-Ayiti"
-  url: https://mit-ayiti.net/
+  pageRef: "/external-resources/platf\xF2m-mit-ayiti_19c2bb22-ca39-4924-ad40-b02527ed2dcd"
   weight: 20
-- identifier: external-372824167-1679572682910
+- identifier: c615407e-f9bf-467e-9cc2-f25ccc39119f
   name: MIT-Haiti Initiative
-  url: https://haiti.mit.edu/
+  pageRef: /external-resources/mit-haiti-initiative_c615407e-f9bf-467e-9cc2-f25ccc39119f
   weight: 30
 - identifier: be597ce7-c131-4373-b3dc-ae70b45dda49
   name: Why the MIT-Haiti Initiative Was Founded
