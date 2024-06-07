@@ -2,7 +2,7 @@
   "term": "Spring",
   "year": "2023",
   "level": [
-    "Non Credit"
+    "Non-Credit"
   ],
   "topics": [
     [
@@ -42,7 +42,9 @@
     "content": "",
     "website": "mit-haiti-initiative-inisyativ-mit-ayiti"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Instructor Insights"
+  ],
   "site_uid": "62fe986b-876c-43d5-9d26-015e6d1b4a8a",
   "site_short_id": "res.24-002"
 }
