@@ -6,7 +6,7 @@ draft: false
 title: "Ki sa ki Platf\xF2m MIT-Ayiti?"
 uid: 5e004465-832a-41cf-8a45-889d58410172
 ---
-Nan atelye ak senpozyòm MIT-Ayiti soti 2010 rive 2017, patisipan yo te mete yo dakò sou enpòtans lang kreyòl la kòm zouti ki endispansab nan tout nivo nan systèm edikasyon an. Se kon sa Inisyativ la te vin lanse yon platfòm nimerik, [https://mit-ayiti.net/](https://mit-ayiti.net/), kote tout etidyan ak anseyan, alawonn Badè, ka jwenn epi kontribye nan kreyasyon bon kalite materyèl an kreyòl. Materyèl sa yo ka sèvi kòm egzanp pou kreye pi plis materyèl pou anseyan yo.
+Nan atelye ak senpozyòm MIT-Ayiti soti 2010 rive 2017, patisipan yo te mete yo dakò sou enpòtans lang kreyòl la kòm zouti ki endispansab nan tout nivo nan systèm edikasyon an. Se kon sa Inisyativ la te vin lanse yon platfòm nimerik, {{% resource_link "19c2bb22-ca39-4924-ad40-b02527ed2dcd" "https://mit-ayiti.net/" %}}, kote tout etidyan ak anseyan, alawonn Badè, ka jwenn epi kontribye nan kreyasyon bon kalite materyèl an kreyòl. Materyèl sa yo ka sèvi kòm egzanp pou kreye pi plis materyèl pou anseyan yo.
 
 Platfòm sa a se yon konbit lajman laj ki reyini anseyan — Grenadye ak Grenadyèz — k ap met tèt ansanm pou bati yon lòt kalite lekòl ki valorize tout pitit peyi a. Se yon zouti ki sèvi pou kreye, ranmase, evalye, seleksyone, revize, òganize epi pataje materyèl an kreyòl pou sal klas.
 
